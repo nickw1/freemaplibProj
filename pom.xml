@@ -22,12 +22,12 @@
 	<dependency>
 		<groupId>com.jhlabs</groupId>
 		<artifactId>javaproj</artifactId>
-		<version>1.0.6-noawt</version>
+		<version>1.0.6-noawt-r2</version>
 	</dependency>
 	<dependency>
 		<groupId>uk.me.jstott</groupId>
 		<artifactId>jcoord</artifactId>
-		<version>1.0</version>
+		<version>1.1-xni06-20170214</version>
 	</dependency>
   </dependencies>
 </project>
