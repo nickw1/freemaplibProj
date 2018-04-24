@@ -4,7 +4,7 @@
   <groupId>freemap</groupId>
   <artifactId>freemaplibProj</artifactId>
   <packaging>jar</packaging>
-  <version>20131013</version>
+  <version>20180424</version>
   <name>freemaplibProj</name>
   <url>http://maven.apache.org</url>
   <dependencies>
